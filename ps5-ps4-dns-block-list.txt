@@ -276,3 +276,5 @@
 0.0.0.0 uam-fs.rnps.dl.playstation.net
 0.0.0.0 universal-checkout.rnps.dl.playstation.net
 0.0.0.0 x-wing.rnps.dl.playstation.net
+0.0.0.0 igc-browse.rnps.dl.playstation.net
+0.0.0.0 ppr-crl.rnps.dl.playstation.net
