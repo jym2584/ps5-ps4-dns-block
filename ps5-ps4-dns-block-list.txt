@@ -207,9 +207,11 @@
 
 
 
-############
-# What I see in pihole
-############
+###############################################################################
+# Title: ps5_dns_block
+# Additional list of hosts that the PS5 hits
+# Mostly tested on 7.61 fw
+# Date: 07 Sep 2026
 
 0.0.0.0 search-lambda.rnps.dl.playstation.net
 0.0.0.0 monte-carlo-lambda.rnps.dl.playstation.net
